@@ -13,7 +13,7 @@
 <p>
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/ee3c4090b695cbf76093cd42ef5da6ac74196bb8/WordPress.com-Logo.wine.svg" width="40" height="40" alt="WordPress" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/26eb1788eb0fd53920c7e01b7c2318769c8b96d5/PHP-logo.svg.svg" width="50" height="30" alt="php" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/42af7de7047b034bc1cfd26c6371394e592b076f/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/42af7de7047b034bc1cfd26c6371394e592b076f/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
   <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/26eb1788eb0fd53920c7e01b7c2318769c8b96d5/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/css/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/26eb1788eb0fd53920c7e01b7c2318769c8b96d5/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
