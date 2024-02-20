@@ -15,6 +15,7 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/26eb1788eb0fd53920c7e01b7c2318769c8b96d5/PHP-logo.svg.svg" width="50" height="30" alt="php" /></a>
   <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/26eb1788eb0fd53920c7e01b7c2318769c8b96d5/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/css/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/26eb1788eb0fd53920c7e01b7c2318769c8b96d5/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Matin-Ahmadi-2002/Matin-Ahmadi-2002/blob/main/nwt9ncojkvwmjfkaada8upafvpnu.png?raw=true" width="36" height="36" alt="CSS3" /></a>
 </p>
 
 <br>
